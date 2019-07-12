@@ -1,4 +1,4 @@
-﻿[![Build_Status](https://travis-ci.org/tiagoadmstz/PWIO.svg?branch=master)](https://travis-ci.org/tiagoadmstz/PWIO)
+﻿[![Build_Status](https://travis-ci.com/tiagoadmstz/PWIO.svg?branch=master)](https://travis-ci.com/tiagoadmstz/PWIO)
  
 # PWIO (Project Webcam Images Organizator)
 
